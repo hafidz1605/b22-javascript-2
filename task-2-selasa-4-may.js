@@ -13,7 +13,7 @@ let nama = [
           let cetak=[]
           let i=0    
           
-            for (let x=0;x<16;x++){
+            for (let x=0;x<1000000;x++){
               
                 panjang=nama[i].length-1
                 param=callback(a,nama[i])    
